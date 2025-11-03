@@ -4,7 +4,7 @@ Hello! My name is yumeng guo, you can call me Grace. I'm a junior year student s
 
 💼 **My Work Experience**
 - Campus Learning Statistics Assistant @ **UCSB**, Santa Barbara, Fall25
-- Data Analyst Intern @ **Inter-American Development Bank**, Washington DC, US, Summer25  
+- Data Scientist Intern @ **Inter-American Development Bank**, Washington DC, US, Summer25  
 - Data Analyst Intern @ **Alibaba Group**, Hangzhou, China, Summer24
 - Business Analyst Intern @ **China Citic Bank**, Chengdu, China, Summer23
 
