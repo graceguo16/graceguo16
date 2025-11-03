@@ -1,6 +1,6 @@
 ## Hi!/Hola!/你好!/こんにちは！👋
 
-Hello! My name is yumeng guo, you can call me Grace. I'm a junior year student studying Financial Mathematics Statistics at UCSB. I have worked in Alibaba International Group where I developed financial modeling, programming skills as well as collaborative and teamwork skills. As a diligent and motivated student, I'm dedicated to solve real-world problems with not only the knowledge from math, stats,and econ, I'm also interested in learning more knowledge in Machine learning, natural language processing, complex reasoning, and understanding LLMs. 
+Hello! My name is yumeng guo, you can call me Grace. I'm a senior year student studying Financial Mathematics Statistics at UCSB. I have worked in Inter-American Developmental Bank and Alibaba International Group, where I developed financial modeling, programming skills as well as collaborative and teamwork skills. As a diligent and motivated student, I'm dedicated to solve real-world problems with not only the knowledge from math, stats,and econ, I'm also interested in learning more knowledge in Machine learning, natural language processing, complex reasoning, and understanding LLMs. 
 
 💼 **My Work Experience**
 - Campus Learning Statistics Assistant @ **UCSB**, Santa Barbara, Fall25
